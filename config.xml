@@ -6,10 +6,10 @@
         id        = "com.nilton.phonegap"
         version   = "1.0.0">
 
-    <name>Sqlite</name>
+    <name>LocalStorage</name>
 
     <description>
-        Testando Sqlite.
+        Testando LocalStorage.
     </description>
 
     <author href="http://nmtecnologia.com.br" email="nilton.morais@nmtecnologia.com.br">
